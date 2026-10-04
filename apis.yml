@@ -39,7 +39,6 @@ apis:
   - name: STAPI
     description: "Information on all things Star Trek"
     humanURL: http://stapi.co
-    baseURL: http://stapi.co
     tags:
       - Video
     properties:
